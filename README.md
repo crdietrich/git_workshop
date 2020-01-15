@@ -1,4 +1,12 @@
 # Version Control with Git
+
+This Repo:  
+https://github.com/crdietrich/git_workshop
+
+Demo Repo:  
+https://github.com/crdietrich/demo
+
+Software Carpentry Repo:  
 https://swcarpentry.github.io/git-novice/  
 
 ## Workshop Intro
